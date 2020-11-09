@@ -6,8 +6,8 @@
 header{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-image: url('gambar/kayu.png');
-    border: solid 5px black;
-    height: 300px;
+    border: solid 0.5vw black;
+    height: 12vw;
     max-width: 55%;
     margin-left: 22vw;
     background-size: 20vw;
@@ -140,7 +140,7 @@ body {
 
 .geter {
     height: auto;
-    width: 33vw;
+    width: 100%;
     /* Start the shake animation and make the animation last for 0.5 seconds */
     animation: shake 0.5s;
   
