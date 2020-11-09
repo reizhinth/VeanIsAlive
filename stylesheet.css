@@ -35,7 +35,7 @@ body {
 .kananGambar {
     margin-left: 2vw;
     display: inline-block;
-    font-size: 3.3vw;
+    font-size: 45px;
 
 }
 
@@ -199,6 +199,7 @@ body {
 }
 
 .tanggal {
-    font-size: 2vw;
+    font-size: 20px;
     text-align: right;
 }
+
