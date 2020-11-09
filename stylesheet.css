@@ -8,8 +8,8 @@ header{
     background-image: url('gambar/kayu.png');
     border: solid 0.5vw black;
     height: 12vw;
-    width: 55%;
-    margin-left: 22vw;
+    width: 70vw;
+    margin-left: 15vw;
     background-size: 20vw;
 }
 
@@ -17,6 +17,7 @@ body {
     background-image: url('gambar/tileablewood.jpg');
     background-size: 50vw;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 .h1 {
@@ -140,7 +141,7 @@ body {
 
 .geter {
     height: auto;
-    width: 100%;
+    max-width: 100%;
     /* Start the shake animation and make the animation last for 0.5 seconds */
     animation: shake 0.5s;
   
@@ -199,65 +200,4 @@ body {
 .tanggal {
     font-size: 1vw;
     text-align: right;
-}
-  
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-/* Styles */
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen 
-and (min-width : 321px) {
-/* Styles */
-}
-
-/* Smartphones (portrait) ----------- */
-@media only screen 
-and (max-width : 320px) {
-/* Styles */
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) {
-/* Styles */
-}
-
-/* iPads (landscape) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape) {
-/* Styles */
-}
-
-/* iPads (portrait) ----------- */
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : portrait) {
-/* Styles */
-}
-
-/* Desktops and laptops ----------- */
-@media only screen 
-and (min-width : 1224px) {
-/* Styles */
-}
-
-/* Large screens ----------- */
-@media only screen 
-and (min-width : 1824px) {
-/* Styles */
-}
-
-/* iPhone 4 ----------- */
-@media
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
-/* Styles */
 }
