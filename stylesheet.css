@@ -6,8 +6,8 @@
 header{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-image: url('gambar/kayu.png');
-    border: solid 0.5vw black;
-    height: 12vw;
+    border: solid 5px black;
+    height: 210px;
     max-width: 55%;
     margin-left: 22vw;
     background-size: 20vw;
